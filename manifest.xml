@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Fx NION and Anirup Dutta" />
+        <field key="version" value="1.2" />
+        <field key="description" value="Provides tasks capabilities to Elgg for both a user or a group. And get fun." />
+        <field key="website" value="http://fxnion.free.fr/" />
+        <field key="copyright" value="((C) Fx NION 2009/2010" />
+        <field key="licence" value="GNU Public License version 2" />
+        <field key="elgg_version" value="2010030101" />
+</plugin_manifest>
