@@ -5,8 +5,8 @@
 	 * 
 	 * @package Elggtasks
 	 * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU Public License version 2
-	 * @author anirupdutta
-	 * @link http://troopp.com/
+	 * @author Fx NION AND Anirup Dutta
+	 * @link http://fxnion.free.fr/
 	 */
 
 	// tasks initialisation function
